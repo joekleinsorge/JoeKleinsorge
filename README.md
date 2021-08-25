@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on XaaS and IaaS automation using VMware's vRealze Suite
-- 🌱 I’m currently learning Javascript and Terraform
+- 🌱 I’m currently learning Javascript, Terraform and Python
 - 💬 Ask me about building reliable automation and mountain biking
 - 😄 Pronouns: he/him
 
