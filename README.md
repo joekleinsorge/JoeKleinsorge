@@ -6,8 +6,9 @@
 - 💬 Ask me about building reliable automation and mountain biking
 - 😄 Pronouns: he/him
 
-🏡 [website][website] | 👔 [linkedin][linkedin]
+:ghost: [website][website] | 👔 [linkedin][linkedin] | :page_with_curl: [blog][blog]
  
-
-[linkedin]: https://linkedin.com/in/joeykleinsorge
+ 
 [website]: https://joeykleinsorge.com
+[linkedin]: https://linkedin.com/in/joeykleinsorge
+[blog]: https://joeykleinsorge.github.io/
