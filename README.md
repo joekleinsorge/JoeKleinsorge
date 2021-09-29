@@ -7,11 +7,10 @@
 - 😄 Pronouns: he/him
 
 
-:ghost: [website][website] | 👔 [linkedin][linkedin] | :page_with_curl: [blog][blog]  
+:page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]
    
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
 
  
-[website]: https://joeykleinsorge.com
+[blog]: https://joeykleinsorge.com
 [linkedin]: https://linkedin.com/in/joeykleinsorge
-[blog]: https://joeykleinsorge.github.io/
