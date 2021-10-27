@@ -7,9 +7,9 @@
 - 😄 Pronouns: he/him
 
 
-:page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]
-   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
+:page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
 
  
 [blog]: https://joeykleinsorge.com
