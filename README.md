@@ -8,14 +8,16 @@ I spend my time designing and developing my company's hybrid cloud self-service 
 - 💬 Ask me about building reliable automation and mountain biking
 - 😄 Pronouns: he/him
 
-# 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# 🔗 Connect with me
+### 🔗 Connect with me
 
 :page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]
+
+### 🔍 Current Visitor Count
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
 
