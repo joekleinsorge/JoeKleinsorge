@@ -1,4 +1,4 @@
-### Hi, I'm Joey <a href="https://www.joeykleinsorge.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,
+### Hi, I'm Joey <a href="https://www.joeykleinsorge.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I spend my time designing and developing my company's hybrid cloud self-service automated offerings.
 
