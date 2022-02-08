@@ -25,13 +25,12 @@ I spend my time designing and developing my company's hybrid cloud self-service 
 
 👔 [linkedin][linkedin]
 
-### 🔍 Current Visitor Count
+### 🔍 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=joeykleinsorge&theme=calm&show_icons=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
 
+
 [blog]: https://joeykleinsorge.com
 [linkedin]: https://linkedin.com/in/joeykleinsorge
-
-### Stats
-
-![](https://github-readme-stats.vercel.app/api?username=joeykleinsorge&theme=calm&show_icons=true)
