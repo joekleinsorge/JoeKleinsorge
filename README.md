@@ -11,7 +11,6 @@ I spend my time designing and developing my company's hybrid cloud self-service 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to Fix Barrier Issue With Multiple Monitors](https://www.joeykleinsorge.com/posts/2022/01/how-to-fix-barrier-issue-with-multiple-monitors/)
 - [How to Install Oh My Zsh on Windows 10](https://www.joeykleinsorge.com/posts/2021/11/how-to-install-oh-my-zsh-on-windows-10/)
 - [Auto Linting With Github Actions](https://www.joeykleinsorge.com/posts/2021/11/auto-linting-with-github-actions/)
