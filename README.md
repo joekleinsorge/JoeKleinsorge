@@ -30,6 +30,5 @@ I spend my time designing and developing my company's hybrid cloud self-service 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoeyKleinsorge.JoeyKleinsorge)
 
-
 [blog]: https://joeykleinsorge.com
 [linkedin]: https://linkedin.com/in/joeykleinsorge
