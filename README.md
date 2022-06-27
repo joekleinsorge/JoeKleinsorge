@@ -20,9 +20,7 @@ I spend my time designing and developing my company's hybrid cloud self-service 
 
 ### 🔗 Connect with me
 
-:page_with_curl: [blog][blog]
-
-👔 [linkedin][linkedin]
+:page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]
 
 ### 🔍 Stats
 
