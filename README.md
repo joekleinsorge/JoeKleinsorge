@@ -1,25 +1,26 @@
 ### Hi there 👋
 
-I'm Joey, a devops engineer experienced in developing infrastructure-as-code solutions and operations automation. I'm a DevOps Engineer at CSX Technology.
+I'm Joey, a DevOps engineer experienced in developing CI/CD pipelines, infrastructure-as-code solutions, and operations automation.
 
-I work a lot with
+### I work a lot with:
+  - GitHub Enterprise (Cloud and Server)
+  - Kubernetes (OpenShift and OKD)
+  - GitOps (ArgoCD and Spinnaker)   
+  - Linux (mostly RHEL these days)
+  - Python and JS  
+  
 
-- GitHub Enterprise (Cloud and Server)
-- Linux (mostly RHEL these days)
-- Kubernetes (OpenShift and OKD)
-- Python
+### What I am up to now:
+  - 🔭 I’m currently breaking and fixing my [homelab](https://github.com/joeykleinsorge/homelab)
+  - 🌱 I’m currently learning some more in-depth Kubernetes administration and better Python practices
+  - 🤖 Have a not-so-secret goal of automating everything. At work or home you can find me making the machines do all the boring stuff
+  - 💬 Ask me about building reliable automation and mountain biking
+  - 😄 Pronouns: he/him  
+  
 
-What I am up to now
-
-- 🔭 I’m currently breaking and fixing my [homelab](https://github.com/joeykleinsorge/homelab)
-- 🌱 I’m currently learning some more in-depth Kubernetes administration and better Python practices
-- 🤖 Have a not-so-secret goal of automating everything. At work or home you can find me trying to make the machines do all the boring stuff
-- 💬 Ask me about building reliable automation and mountain biking
-- 😄 Pronouns: he/him
-
-### 🔗 Connect with me
-
-:page_with_curl: [blog][blog] | 👔 [linkedin][linkedin]
+### Where I am on the web:
+  - :page_with_curl: [blog][blog] 
+  - 👔 [linkedin][linkedin]
 
 [blog]: https://joeykleinsorge.com
 [linkedin]: https://linkedin.com/in/joeykleinsorge
