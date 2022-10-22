@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joey, a  ̶D̶e̶v̶O̶p̶s̶ ̶E̶n̶g̶i̶n̶e̶e̶r̶  Problem solver experienced in developing CI/CD pipelines, infrastructure-as-code solutions, and operations automation.
+I'm Joey, a ~~DevOps Engineer~~ Problem Solver experienced in developing CI/CD pipelines, infrastructure-as-code solutions, and operations automation.
 
 ### I work a lot with:
   - GitHub Enterprise (Cloud and Server)
