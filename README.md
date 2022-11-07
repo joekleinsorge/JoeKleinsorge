@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm Joey, a ~~DevOps Engineer~~ Problem Solver experienced in developing CI/CD pipelines, infrastructure-as-code solutions, and operations automation.
+I'm Joey, a ~~DevOps Engineer~~ Problem Solver experienced in developing IaaS and IaC solutions, IT Operations Automation and CI/CD pipelines.  
 
 ### I work a lot with:
   - GitHub Enterprise (Cloud and Server)
   - Kubernetes (OpenShift and OKD)
-  - GitOps (ArgoCD and Spinnaker)   
   - Linux (mostly RHEL these days)
   - Python, JavaScript, Bash and PowerShell
   
