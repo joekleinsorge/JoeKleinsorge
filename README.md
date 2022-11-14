@@ -21,5 +21,5 @@ I'm Joey, a ~~DevOps Engineer~~ Problem Solver experienced in developing IaaS an
   - :page_with_curl: [blog][blog] 
   - 👔 [linkedin][linkedin]
 
-[blog]: https://joeykleinsorge.com
-[linkedin]: https://linkedin.com/in/joeykleinsorge
+[blog]: https://blog.kleinsorge.dev
+[linkedin]: https://linkedin.com/in/joekleinsorge
