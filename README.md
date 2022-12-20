@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joe, a ~~DevOps Engineer~~ Problem Solver experienced in developing IaaS and IaC solutions, IT Operations Automation and CI/CD pipelines.  
+I'm Joe, a ~~DevOps Engineer~~ problem solver experienced in developing IaaS and IaC solutions, IT Operations automation and CI/CD pipelines.  
 
 ### I work a lot with:
   - GitHub Enterprise (Cloud and Server)
@@ -11,7 +11,7 @@ I'm Joe, a ~~DevOps Engineer~~ Problem Solver experienced in developing IaaS and
 
 ### What I am up to now:
   - 🔭 I’m currently breaking and fixing my [homelab](https://github.com/joeykleinsorge/freshlab)
-  - 🌱 I’m currently learning some more in-depth Kubernetes administration and better Python practices
+  - 🌱 I’m currently learning some more in-depth Kubernetes administration, better Python practices and some Go
   - 🤖 Have a not-so-secret goal of automating everything. At work or home you can find me making the machines do all the boring stuff
   - 💬 Ask me about building reliable automation and mountain biking
   - 😄 Pronouns: he/him  
