@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Joe, a ~~DevOps Engineer~~ problem solver experienced in developing IaaS and IaC solutions, IT Operations automation and CI/CD pipelines.  
+I'm Joe, a ~~DevOps Engineer~~ problem solver experienced in developing IaaS and IaC solutions, IT Ops automation and CI/CD pipelines.
 
 ### I work a lot with:
-  - GitHub Enterprise (Cloud and Server)
+  - GitHub Enterprise (Cloud and Server) and GitHub Actions
   - Kubernetes (OpenShift and OKD)
   - Linux (mostly RHEL these days)
-  - Python, JavaScript, Bash and PowerShell
+  - Python, JavaScript, Bash, PowerShell and a hint of Go
   
 
 ### What I am up to now:
