@@ -1,25 +1,14 @@
 ### Hi there 👋
 
-I'm Joe, a ~~DevOps Engineer~~ problem solver experienced in developing IaaS and IaC solutions, IT Ops automation and CI/CD pipelines.
+Hi, I’ m Joe, a systems engineer specializing in fault-tolerant applications and distributed systems. Well-versed in numerous technologies including Python, Go, JS, IaC, Kubernetes and Azure.
 
 ### I work a lot with:
-  - GitHub Enterprise (Cloud and Server) and GitHub Actions
-  - Kubernetes (OpenShift and OKD)
-  - Linux (mostly RHEL these days)
-  - Python, JavaScript, Bash, PowerShell and a hint of Go
+  - Python, JavaScript, GraphQL and a hint of Go
+  - Kubernetes (OpenShift, OKD, ARO and AKS)
+  - Linux (mostly RHEL + Ubuntu these days)
+  - IaC (Terraform, Bicep, Ansible)
+  - CI/CD Tooling (ArgoCD, Flux, Spinnaker, JFrog, GitHub Actions, Jenkins, etc.)
   
 
-### What I am up to now:
-  - 🔭 I’m currently breaking and fixing my [homelab](https://github.com/joeykleinsorge/freshlab)
-  - 🌱 I’m currently learning some more in-depth Kubernetes administration, better Python practices and some Go
-  - 🤖 Have a not-so-secret goal of automating everything. At work or home you can find me making the machines do all the boring stuff
-  - 💬 Ask me about building reliable automation and mountain biking
-  - 😄 Pronouns: he/him  
-  
-
-### Where I am on the web:
-  - :page_with_curl: [blog][blog] 
-  - 👔 [linkedin][linkedin]
-
-[blog]: https://blog.kleinsorge.dev
-[linkedin]: https://linkedin.com/in/joekleinsorge
+![Blog](https://img.shields.io/website?style=flat&labelColor=0f81c2&label=Blog&url=https://blog.kleinsorge.dev)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joekleinsorge)
