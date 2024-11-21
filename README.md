@@ -1,4 +1,4 @@
-Hi, I’ m Joe, a systems engineer specializing in fault-tolerant applications and distributed systems. Well-versed in numerous technologies including Python, Go, JS, IaC, Kubernetes and Azure.
+Hi, I’ m Joe, an engineer specializing in fault-tolerant applications and distributed systems. Well-versed in numerous technologies including Python, Go, JS, IaC, Kubernetes and Azure.
 
 ### I work a lot with:
   - Python, JavaScript, GraphQL and a hint of Go
